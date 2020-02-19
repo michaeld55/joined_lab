@@ -35,10 +35,10 @@ def is_item_in_array( houses, name )
   end
 
   return flag
-  
+
 end
 
-def get_first_key(wallets)
+def get_first_key( wallets )
 
   return wallets.keys[0]
 
